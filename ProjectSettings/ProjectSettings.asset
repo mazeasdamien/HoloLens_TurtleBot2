@@ -128,7 +128,16 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: -8544327991333219992, guid: 28252bd0c9d0aaf4488612c14f19ed0d, type: 2}
+  - {fileID: -8515385252199918926, guid: 6bfb7384d98ec0844a380dd2c3dc9bc0, type: 2}
+  - {fileID: 2196346589949429799, guid: 87e6f045667e04e419e4ac8545344aa6, type: 2}
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -602,11 +611,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template3D
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 804b4b19a8a2d801
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: HoloLens_TurtleBot2
